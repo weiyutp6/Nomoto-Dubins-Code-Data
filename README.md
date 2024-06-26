@@ -3,10 +3,15 @@ This is the repository for the paper Ship Maneuvering and Dynamic Navigation for
 ## Prerequisites
 
 Matlab R2022b and above with the following toolboxes
+
 •	Image Processing Toolbox
+
 •	Computer Vision Toolbox
+
 •	System Identification Toolbox
+
 •	Symbolic Math Toolbox
+
 •	Control System Toolbox
 
 ## Build project
